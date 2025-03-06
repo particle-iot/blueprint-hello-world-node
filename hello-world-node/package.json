@@ -1,0 +1,15 @@
+{
+  "name": "particle-hello-world-linux",
+  "version": "1.0.0",
+  "description": "A simple Hello World Node app for Particle on Linux, sending cloud events.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">=20.0.0"
+  },
+  "license": "MIT"
+}
