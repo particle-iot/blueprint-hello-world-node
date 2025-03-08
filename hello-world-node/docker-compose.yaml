@@ -1,5 +1,3 @@
-version: "3.8"
-
 services:
   hello-world-node:
     container_name: hello-world-node

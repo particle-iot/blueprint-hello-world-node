@@ -19,8 +19,7 @@ webIdeLink: https://go.particle.io/shared_apps/6761f677ca3d870509cd4384
 webSetupLink: part.cl/setup-tachyon
 hardwareDependencies:
   - name: Supported device
-containers:
-  - name: edge/hello-world-node
+containers: hello-world-node
 introduction: |
   Welcome to the **Hello World Linux Blueprint App** for Particle! 
 
