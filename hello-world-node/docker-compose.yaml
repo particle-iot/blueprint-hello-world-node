@@ -1,6 +1,5 @@
 services:
   hello-world-node:
-    container_name: hello-world-node
     build: .
     ports:
       - "8080:8080"
