@@ -1,16 +1,16 @@
 slug: particle-hello-world-node
 type: Tutorial
-category: "Getting started"
+category: "Reference applications"
 expertiseLevel: "Beginner"
-tags: ["Application"]
+tags: ["Containers"]
 icon: assets/hello-world.svg
 gitrepo: https://github.com/particle-iot/blueprint-hello-world-node
 name: "Hello, World Node"
 shortDescription: The classic application, now running on your Linux device using Node!
 version: 1.0.0
 models: []
-language: [ "Node.js" ]
-cloudServices:
+language: ["Node.js"]
+cloudServices: []
 integrations: []
 supportedDevices:
   - name: Tachyon
