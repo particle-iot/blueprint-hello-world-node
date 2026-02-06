@@ -27,4 +27,5 @@ description: |
   The Hello World blueprint for Linux is here
 
 additionalResources:
-  - [Tachyon Edge AI Overview](https://particle.io/tachyon)
+  - title: Tachyon Edge AI Overview
+    link: https://particle.io/tachyon
